@@ -1,0 +1,2 @@
+# Climate-Impact-on-Agricultural-Productivity---Power-BI-Dashboard
+This dashboard analyzes how climatic factors influence agricultural productivity across regions, crops, and countries. It combines climate data (temperature, precipitation, extreme weather) with agricultural indicators (crop yield, fertilizer use, economic impact) to support data-driven decision-making in agriculture and policy planning.
